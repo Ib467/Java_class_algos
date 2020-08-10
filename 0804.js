@@ -1,3 +1,5 @@
+//singly linked li
+
 class SLNode{
   constructor(value){
     this.value = value
