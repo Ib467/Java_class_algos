@@ -91,4 +91,6 @@ class SLStack {
             }
             console.log(runner.value)
         }
+    }
+
 }
